@@ -2,7 +2,16 @@
 
 Connect to the bag via bluetooth and update the text scrolling on the bag.
 
+
+## Parts
+
+* [Flora](https://www.adafruit.com/product/659)
+* [Neopixel Matrix](https://www.adafruit.com/product/2294)
+* [Lithium Ion Battery](https://www.adafruit.com/product/328)
+* [Bluefruit](https://www.adafruit.com/product/2479)
+
 ## Wiring Diagram
+Note: In the diagram the neopixel strip should actually be a neopixel matrix which has the same pins just on the back
 
 ![wiring diagram for messanger bag](wiring.png)
 
