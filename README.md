@@ -2,7 +2,7 @@
 
 Connect to the bag via bluetooth and update the text scrolling on the bag.
 
-![The bag in action](http://i.imgur.com/lVwGEZM.gifv)
+![The bag in action](http://i.imgur.com/lVwGEZM.gif)
 
 
 ## Parts
